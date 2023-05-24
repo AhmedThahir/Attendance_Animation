@@ -1,3 +1,3 @@
 # Animation using Matplotlib
 
-[Attendance Animation](Attendance_Animation.gif)
+![Attendance Animation](Attendance_Animation.gif)
